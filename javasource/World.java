@@ -5,6 +5,7 @@ public class World {
 	 System.out.println("New line added to test git...");
 	 System.out.println("Second line added to test git...");
 	 System.out.println("Code added to new branch myBranch ...");
+	 System.out.println("Code added to new branch branch2 ...");
 
    }
 }
